@@ -17,3 +17,5 @@ Vue test utils dokumenation: https://vue-test-utils.vuejs.org/
 ## Videor
 
 ## Inspelningar
+
+https://drive.google.com/file/d/16AoeEydnoVKXNpeYwMPPlxvKxB1N3j1d/view?usp=sharing
